@@ -1,4 +1,4 @@
-Category	Attribute	Matplotlib_Notebook	Matplotlib_Python	PlotCoder_Matplotlib_Python	ChartDialog_Matplotlib_Python	Graphics_R	ChartJS_JavaScript	Vegalite_Vega	nvBench_Vegalite_Vega
+Category	Attribute	Matplotlib-nb	Matplotlib-py	PlotCoder	ChartDialog	Graphics	ChartJS	Vega-Lite	nvBench
 xy-axis	x-title	7.9001	6.6794	12.2263	0.0000	5.9148	1.4566	6.3459	45.8245
 xy-axis	y-title	7.9596	6.9614	12.1927	0.0000	5.5869	1.8309	6.4455	45.8245
 xy-axis	x-y-title-fontsize	2.4637	2.0869	2.2704	0.0000	0.6862	0.3237	0.4782	0.0000

@@ -11,15 +11,13 @@ df = pd.read_csv(tsv_path, sep='\t')
 
 # calculate spearman's correlation efficient
 heat_map_values = []
-columns = ["Matplotlib_Notebook", "Matplotlib_Python", "Graphics_R", "ChartJS_JavaScript", "Vegalite_Vega", "PlotCoder_Matplotlib_Python", "ChartDialog_Matplotlib_Python", "nvBench_Vegalite_Vega"]
+columns = ["Matplotlib-nb", "Matplotlib-py", "Graphics", "ChartJS", "Vega-Lite", "PlotCoder", "ChartDialog", "nvBench"]
 for i in range(len(columns)):
     values = []
     for j in range(0, len(columns)):
         x = df[columns[i]]
         y = df[columns[j]]
         res = stats.spearmanr(x/100, y/100)
-        # print(columns[i], columns[j], res.correlation, res.pvalue)
-        # print(res.pvalue, end='\t')
         values.append(res.correlation)
     # print()
     heat_map_values.append(values)
@@ -65,7 +63,7 @@ for label in axes.get_xticklabels():
 for label in axes.get_yticklabels():
     label.set_fontsize(12)
 
-# rorate xtick labels
+# rotate xtick labels
 plt.xticks(rotation=20)
 
 # grid + brackground
