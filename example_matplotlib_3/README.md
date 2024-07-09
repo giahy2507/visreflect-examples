@@ -1,4 +1,4 @@
-# Example of visualisation using Seaborn
+# Example of Matplotlib - 2 grouped bar charts - data in code
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|

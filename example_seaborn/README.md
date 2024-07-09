@@ -1,4 +1,4 @@
-# Example of visualisation using Seaborn
+# Example of Seaborn - Heatmap
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|
