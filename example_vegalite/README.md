@@ -1,4 +1,4 @@
-# Example of Vegalite - Single line chart
+# Example of Vegalite - line chart
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|

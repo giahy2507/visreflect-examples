@@ -1,4 +1,4 @@
-# Example of Matplotlib - bar chart - data in code
+# Example of ggplot2 (R) - bar chart - data in code
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|

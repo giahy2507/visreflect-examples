@@ -1,4 +1,4 @@
-# Example of Matplotlib - line chart - multiple data files
+# Example of Pandas - line chart - multiple data files
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|

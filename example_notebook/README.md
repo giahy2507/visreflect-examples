@@ -1,4 +1,4 @@
-# Example of Matplotlib - bar chart - data in code
+# Example of Jupyter Notebook (Python) - bar chart - data in code
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|
