@@ -3,7 +3,7 @@
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|
 | 1 | Arxiv URL                |                                  |
-| 2 | Visualisation Image      | [2_visualisation_image.png](./2_visualisation_image.png) (attached in this folder)|
+| 2 | Visualisation Image      | <img src="./2_visualisation_image.png" width="200" height="200"> |
 | 3 | Visualisation Caption    | Spearman’s rank correlation coefficient in terms of frequent attributes |
 | 4 | Plotting Data            | [4_plotting_data.tsv](./4_plotting_data.tsv) (attached in this folder)|
 | 5 | Code                     | [5_code.py](./5_code.py) (attached in this folder)         |
