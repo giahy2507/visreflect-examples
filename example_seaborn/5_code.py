@@ -26,16 +26,14 @@ for i in range(len(columns)):
 # draw a heat map for the correlation values
 # not display the lower triangle
 # scale of color from light yellow to blue
-columns_ticks = ["Matplotlib-nb", "Matplotlib-py", "Graphics", "ChartJS", "Vega-Lite", "PlotCoder", "ChartDialog", "nvBench"]
-
 mask = np.zeros_like(heat_map_values, dtype=bool)
 mask[np.tril_indices_from(mask)] = True
 
 axes = sns.heatmap(heat_map_values, 
                    mask=mask, 
                    annot=True, 
-                   xticklabels=columns_ticks, 
-                   yticklabels=columns_ticks, 
+                   xticklabels=columns, 
+                   yticklabels=columns, 
                    cmap='YlGnBu')
 
 # x-axis on top
