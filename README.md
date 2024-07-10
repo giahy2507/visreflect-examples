@@ -8,8 +8,8 @@ These can be categorised in the following groups
 ## Data in code (Plotting data is declared in the code)
 - [Example of ggplot2 (R)](./example_ggplot2/README.md)
 - [Example of MATLAB ](./example_matlab/README.md)
-- [Example of Matplotlib (Python) - Single Plot](./example_matplotlib1/README.md)
-- [Example of Matplotlib (Python) - Multiple Plots](./example_matplotlib3/README.md)
+- [Example of Matplotlib (Python) - Single Plot](./example_matplotlib_1/README.md)
+- [Example of Matplotlib (Python) - Multiple Plots](./example_matplotlib_3/README.md)
 - [Example of Jupyter Notebook (Python)](./example_notebook/README.md)
 - [Example of Plotly (Python)](./example_plotly/README.md)
 
@@ -20,4 +20,4 @@ These can be categorised in the following groups
 - [Example of Vega-lite (JSON)](./example_vegalite/README.md)
 
 ## Data in file + processing in code (Plotting data is read from files and processed in code)
-- [Example of Altair (Python)](./example_seaborn/README.md)
+- [Example of Seaborn (Python)](./example_seaborn/README.md)
