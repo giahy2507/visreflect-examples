@@ -1,4 +1,4 @@
-# Example of Matplotlib - bar chart - data in code
+# Example of pgfplots (LaTeX or TeX) - bar chart - data in code
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|
