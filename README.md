@@ -12,6 +12,7 @@ These can be categorised in the following groups
 - [Example of Matplotlib (Python) - Multiple Plots](./example_matplotlib_3/README.md)
 - [Example of Jupyter Notebook (Python)](./example_notebook/README.md)
 - [Example of Plotly (Python)](./example_plotly/README.md)
+- [Example of pgfplots (TeX)](./example_tex/README.md)
 
 
 ## Data in file (Plotting data is read from files)
