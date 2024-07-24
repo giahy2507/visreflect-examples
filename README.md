@@ -1,9 +1,14 @@
 # VisReflect - Submitting Examples
 
+<!-- HTML image -->
+<p align="center">
+  <img src="./images/text-to-vis-pipeline.png" width="600">
+</p>
+
 This repository contains examples demonstrating how to submit data for the project "VisReflect: a new benchmark dataset for Text-to-Vis reflecting real-world practice". 
+Text-to-Vis task can be described in the figure below.
 The examples are available in various programming languages and libraries.
 These can be categorised in the following groups
-
 
 ## Data in code (Plotting data is declared in the code)
 - [Example of ggplot2 (R)](./example_ggplot2/README.md)
