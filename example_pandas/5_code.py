@@ -9,7 +9,9 @@ data.plot(x="Strain", y="Stress(MPA)", label="PET", linestyle='dotted', color="b
 # Load PET after washing data from a TSV file
 tsv_file = '4_data/PET after washing.tsv'
 data2 = pd.read_csv(tsv_file, delimiter='\t')
-data2.plot(x="Strain", y="Stress(MPA)", label="PET after washing", color="red")
+
+# plot data2 in the same plot
+data2.plot(x="Strain", y="Stress(MPA)", label="PET after washing", color="red", ax=plt.gca())
 
 # add legend
 plt.legend()
