@@ -1,4 +1,4 @@
-# Example of Seaborn - Heatmap
+# Example of Seaborn 2
 
 | # | Field Name               | Data                             |
 |---|--------------------------|----------------------------------|
